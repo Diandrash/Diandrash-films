@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Diandrash-films/static/css/main.b7f4a8a7.css",
+    "main.css": "/Diandrash-films/static/css/main.00ad5a2c.css",
     "main.js": "/Diandrash-films/static/js/main.198f1079.js",
     "index.html": "/Diandrash-films/index.html",
-    "main.b7f4a8a7.css.map": "/Diandrash-films/static/css/main.b7f4a8a7.css.map",
+    "main.00ad5a2c.css.map": "/Diandrash-films/static/css/main.00ad5a2c.css.map",
     "main.198f1079.js.map": "/Diandrash-films/static/js/main.198f1079.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7f4a8a7.css",
+    "static/css/main.00ad5a2c.css",
     "static/js/main.198f1079.js"
   ]
 }
