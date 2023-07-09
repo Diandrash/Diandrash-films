@@ -38,6 +38,8 @@ body {
   background-color: antiquewhite;
   width: 300px;
   color: black;
+  display: flex;
+  flex-direction: column;
 }
 
 .Input-search {
@@ -51,8 +53,10 @@ body {
 }
 .title {
   font-weight: bold;
-  height: 2rem;
-  margin-top: 10px;
+  height: 4rem;
+  display: flex;
+  align-items: center;
+  align-self: center;
 }
 .Date{
   font-style: italic;
