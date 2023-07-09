@@ -1,7 +1,7 @@
 {
   "name": "diandrash-film",
   "version": "0.1.0",
-  "homepage": "https://Diandrash.github.io/Diandrash-film",
+  "homepage": "https://Diandrash.github.io/Diandrash-films",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
